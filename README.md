@@ -17,7 +17,7 @@ The Workbook was recently updated to also compute deterministic displacements.
 
 ## Pseudo-Probabilistic Analysis
 > [!IMPORTANT]  
-> This Workbook provides a **simplified** probabilistic fault displacement hazard analysis (PFDHA) implementation to *demonstrate the key concept* of the PFDHA framework. 
+> This Workbook provides a **simplified** probabilistic fault displacement hazard analysis (PFDHA) implementation to *demonstrate the key concepts* of the PFDHA framework. 
 
 The following simplifications are used herein to minimize the complexity of this Workbook and are a significant departure from the commonly accepted PFDHA state-of-practice:
 
@@ -83,7 +83,7 @@ If you use this Workbook, please cite it using the following DOI: [![DOI](https:
 ## Errors
 The model calculations have been verified to the extent feasible. While the model developers assisted in the verification and implementation of the models, any errors are the sole responsibility of the Workbook author. Please contact the author if errors are found.
 
-## License!
+## License
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/NHR3-UCLA/FDHI_FDM_Excel_Workbook/blob/main/LICENSE) file for details.
 
 ## Acknowledgments
