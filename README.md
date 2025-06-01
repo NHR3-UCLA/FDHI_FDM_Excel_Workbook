@@ -1,3 +1,10 @@
+# Download Instructions
+
+The Workbook can be downloaded by clicking the green "Code" button and selecting "Download ZIP". A GitHub account is not required. 
+
+The Workbook is an XLSB file. This format is similar to XLSX, except it uses binary encoding, which makes the file smaller and quicker to open. The file does not contain any macros.
+
+
 # Workbook Explanation
 This Workbook implements four new Fault Displacement Models (FDMs) developed through the Fault Displacement Hazard Initiative (FDHI) research program at UCLA [(link)](https://www.risksciences.ucla.edu/nhr3/fdhi/home) using Deterministic and pseudo-Probabilistic methods in an Excel spreadsheet. 
 
