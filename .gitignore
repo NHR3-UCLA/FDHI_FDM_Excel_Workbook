@@ -1,3 +1,5 @@
 latex/
 _super/
 *.xlsx
+scratch*
+*.jpeg
